@@ -24,9 +24,9 @@ Please note that this list is maintained manually and may be outdated
 
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
-|**!brbs**| Changes to the brb Snack scene | n/a |
-|**!brbp**| Changes to the brb Bathroom scene | n/a |
-|**!gp**| Changes to the gameplay scene | n/a |
+|**!brbs**| Changes to the brb Snack scene | Brb getting snack |
+|**!brbp**| Changes to the brb Bathroom scene | Brb gotta pee |
+|**!gp**| Changes to the gameplay scene | Gameplay |
 
 ### Shoutouts
 | **Command**  | **Message** | **Info** |
