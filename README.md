@@ -6,18 +6,13 @@ Bijou doesn't update her command list very often so here is a collection of all 
 
 For the official command list go to [here](https://docs.google.com/document/d/1T85sGssT2h7T8aBF7ycqfi3GimmOFZDDwsP7S4rbJ1s)
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
 
 # Command List
 
 Please note that this list is maintained manually and may be outdated
-##Mod Commands
+## Mod Commands
 
-###General
+### General
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
 |**!hateraidstart**| Begins the chat lockdown for hate raids or follow bot events | n/a |
@@ -25,7 +20,7 @@ Please note that this list is maintained manually and may be outdated
 |**!raid**|  Displays raid messages for both subscribers and followers to copy and paste into the chat once we raid another streamer | n/a |
 |**!remind**| Sends a reminder to discord | Can ping bijou using her userID |
 
-###Scene Change
+### Scene Change
 
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
@@ -33,14 +28,14 @@ Please note that this list is maintained manually and may be outdated
 |**!brbp**| Changes to the brb Bathroom scene | n/a |
 |**!gp**| Changes to the gameplay scene | n/a |
 
-###Shoutouts
+### Shoutouts
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
 |**!soap**| 『💠』 [user] is an AWESOME PEEP bijouvChefskiss | For Viewers |
 |**!so**| 『💠』 Thank you for joining us today [user]! bijouvWao Please show them some support by following here-> https://www.twitch.tv/[user]/ | For streamers |
 |**/shoutout**| Official Twitch shoutout command | For special people |
 
-###Game Category
+### Game Category
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
 |**!cult**| Updates game category to Cult of the Lamb | n/a |
@@ -56,18 +51,18 @@ Please note that this list is maintained manually and may be outdated
 |**!ugg**| Updates game category to Untitled Goose Game | n/a |
 |**!sotf**| Updates game category to Cult of the Lamb | n/a |
 
-##Vip Commands
-###General
+## Vip Commands
+
+### General
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
 |**!BOOM**| 『💠』[user] has sacrificed 1000 diamonds to Popo to try to scare Bijou! bijouvNoway |  Cost 1000 diamonds <br>10 min cooldown |
 |**!headpats**| Gives Bijou headpats for free | 100 sec cooldown |
 |**!wait**| Sends Bijou an audio reminder to do something | Probably a mod command |
 
-##Global commands
+## Global commands
 
-###General
-
+### General
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
 |**!ayaya**| You've encountered a wild ayaya! | Plays ayaya sound |
@@ -88,7 +83,7 @@ Please note that this list is maintained manually and may be outdated
 |**!top10time**|  『💠』The top stream watchers are: [watcherList] | Top 10 users by watchtime |
 
 
-###Popo
+### Popo
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
 |**!beg**| Denied: <br> Popo says: [denyMessage]『💠』Popo isn't in the mood atm. Please ask again later bijouvHapee (5 ᴍɪɴ ᴄᴏᴏʟᴅᴏᴡɴ) <br>Accepted:<br>  Popo says: "( ◞･౪･)( ◞･౪･)( ◞･౪･)( ◞･౪･)( ◞･౪･)( ◞･౪･)( ◞･౪･)". <br>Otay ( ◞･౪･)". <br>『💠』Popo thinks about it for a moment before agreeing and dashing into the tunnels of the Crystal Isle. He returns with a diamond ticket in his mouth and places it in your hand. ✨〘+1 Diamond Ticket〙✨ | 5 min Cooldown |
@@ -96,7 +91,7 @@ Please note that this list is maintained manually and may be outdated
 |**!popostash**| 『💠』Popo has [popoDiamonds] diamonds in his pocket! ( ◞･౪･) | Wealthy popo |
 |**!rip popo**| On stream popo talks about his old life | Popo used to be a penguin |
 
-###RPG
+### RPG
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
 |**!element**| 『💠』[user] is not strong enough to wield an ability yet bijouvSadge You need 50 in all of the five !stats to roll for an element bijouvKo | The success message is still unknown |
@@ -108,7 +103,7 @@ Please note that this list is maintained manually and may be outdated
 |**!statsspd**| Displays user’s Speed stat | Speed |
 |**!statsstr**| Displays user’s Strength stat | Strength |
 
-###Socials
+### Socials
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
 |**!disc**| 『💠』Thank you for your interest in joining my discord server! You can find the link to my server here: https://discord.gg/yUBG3Av7JQ bijouvHapee 𝐃𝐨𝐧'𝐭 𝐟𝐨𝐫𝐠𝐞𝐭 𝐭𝐨 𝐯𝐢𝐬𝐢𝐭 𝐭𝐡𝐞 𝐫𝐮𝐥𝐞𝐬 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐚𝐧𝐝 𝐚𝐜𝐜𝐞𝐩𝐭 𝐭𝐡𝐞 𝐭𝐞𝐫𝐦𝐬 𝐭𝐨 𝐠𝐚𝐢𝐧 𝐚𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐭𝐡𝐞 𝐫𝐞𝐬𝐭 𝐨𝐟 𝐭𝐡𝐞 𝐬𝐞𝐫𝐯𝐞𝐫! | Discord invite link |
@@ -117,26 +112,26 @@ Please note that this list is maintained manually and may be outdated
 |**!twit**| 『💠』 Follow Bijou on Twitter  ! --> https://twitter.com/bijouvos <-- bijouvHapee | Bijous Twitter |
 |**!yt**| 『💠』 Follow Bijou on YouTube  ! --> https://www.youtube.com/@bijouvos <-- bijouvHapee | Bijous Youtube |
 
-###Add Bijou
+### Add Bijou
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
 |**!bt**| 『💠』Bijou's Battle Tag is: BIJOUVOS#1820 bijouvHapee | Bijous Battle Tag |
 |**!fc**| 『💠』 Bijou's Nintendo Switch FC is: SW-7619-3394-3596 bijouvHapee | Bijous Nintendo Friend code |
 |**!steamid**| 『💠』Bijou's Steam ID: bijouvos | Bijous SteamID |
 
-###Donate
+### Donate
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
 |**!dono**| 『💠』Thank you very much for choosing to donate to me! You can find the link to my kofi: https://ko-fi.com/bijouvos bijouvHapee Please spend responsibly and only donate if you are able to! | Sends ko-fi link |
 |**!throne**|『💠』Thank you for your interest in my Throne! You can find my Wishlist here: https://throne.me/u/bijouvos/wishlist bijouvHapee Please spend responsibly and onlymsg | Sends throne link |
 
-###Shops
+### Shops
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------ | :------------: |
 |**!poposhop**| **!poposhop list** = Lists all the items available <br>**!poposhop [item]** = Lists the items buying/selling price<br>**!poposhop buy [item]⠀[quantity]** = buys the item <br>**!poposhop sell [item]⠀[amount]** = sells the item  | Typing incomplete commands will send the usage |
 |**!statsshop**| **!statsshop list** = Lists all the items available <br>**!statsshop [item]** = Lists the items buying/selling price<br>**!statsshop buy [item]⠀[quantity]** = buys the item <br>**!statsshop sell [item]⠀[amount]** = sells the item  | Typing incomplete commands will send the usage |
 
-###Diamonds
+### Diamonds
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
 |**!diamonds**| [user] has [userDiamonds] Diamonds! bijouvWao | Tells you your diamond amount |
@@ -145,7 +140,7 @@ Please note that this list is maintained manually and may be outdated
 |**!leaderboard**| 『💠』 [diamondsLeaderboard] | Displays the top 10 users with the most diamonds |
 |**!givediamonds [user]⠀[quantity]**| [sender] gave [reciever]⠀[quantity] Diamond(s)! | Give diamonds to another user |
 
-###Trading Card Game
+### Trading Card Game
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
 |**!decksize**| [user] has [deckSize] cards in their Diamond Kitsune TCG deck bijouvWao  | Tells your how many cards are in your deck |
