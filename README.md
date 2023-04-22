@@ -1,4 +1,4 @@
-# BijouVos Twitch Commands
+# BijouVos [Twitch](https://twitch.tv/bijouvos) Commands
 
 ![](https://pbs.twimg.com/profile_images/1597036937516388353/HDeYcHXI_200x200.jpg) 
 
