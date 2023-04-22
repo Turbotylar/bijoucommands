@@ -15,9 +15,9 @@ Please note that this list is maintained manually and may be outdated
 ### General
 | **Command**  | **Message** | **Info** |
 | :------------: | :------------: | :------------: |
-|**!hateraidstart**| Begins the chat lockdown for hate raids or follow bot events | n/a |
-|**!hateraidstop**|  Returns the chat to normal after lockdown | n/a |
-|**!raid**|  Displays raid messages for both subscribers and followers to copy and paste into the chat once we raid another streamer | n/a |
+|**!hateraidstart**| Begins the chat lockdown for hate raids or follow bot events | In case of hateraid |
+|**!hateraidstop**|  Returns the chat to normal after lockdown | Once lockdown is not needed |
+|**!raid**|  Displays raid messages for both subscribers and followers to copy and paste into the chat once we raid another streamer | Raid messages! |
 |**!remind**| Sends a reminder to discord | Can ping bijou using her userID |
 
 ### Scene Change
