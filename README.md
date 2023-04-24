@@ -118,6 +118,7 @@ Please note that this list is maintained manually and may be outdated
 |**!bt**| 『💠』Bijou's Battle Tag is: BIJOUVOS#1820 bijouvHapee | Bijous Battle Tag |
 |**!fc**| 『💠』 Bijou's Nintendo Switch FC is: SW-7619-3394-3596 bijouvHapee | Bijous Nintendo Friend code |
 |**!steamid**| 『💠』Bijou's Steam ID: bijouvos | Bijous SteamID |
+|**!epic**| 『💠』Bijou's Epic Games IGN is: bijouvos bijouvHapee | Bijou Epic Games Name |
 
 ### Donate
 | **Command**  | **Message** | **Info** |
