@@ -81,6 +81,7 @@ Please note that this list is maintained manually and may be outdated
 |**!tw**| 『💠』 [user] has watched a total of 《[hrsWatched] Hours & [minsWatched] Mins》 | Time watched <br> !wt doesn't exist |
 |**!now**| 『💠』Today is [datimetime] | Gives Bijous time <br> Toronto time |
 |**!top10time**|  『💠』The top stream watchers are: [watcherList] | Top 10 users by watchtime |
+|**!clip**| Thanks for clipping the stream! You can find your clip in the #『🎬』sᴛʀᴇᴀᴍ-ᴄʟɪᴘs discord channel under Media~ | Doesn't work |
 
 
 ### Popo
